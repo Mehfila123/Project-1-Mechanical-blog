@@ -12,7 +12,6 @@ a img{
     width: 250px;
 }
 header{
-    position: fixed;
     width: 100%;
     z-index: 1000;
     padding: 35px 7%;
@@ -52,6 +51,11 @@ button:hover{
     color: white;
     margin: 10px;
 } */
-
+#ball{
+    width: 450px;
+    position: relative;
+    top: 50px;
+    left: 900px;
+}
   
 
