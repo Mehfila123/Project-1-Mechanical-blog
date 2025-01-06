@@ -1,2 +1,3 @@
 # Mechtree
-Mechanical engineering blog.
+
+Mechtree is a mockup website I created for my friend.
